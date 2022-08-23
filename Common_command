@@ -1,0 +1,3 @@
+jupyter nbconvert name_of_file.ipynb --to slides --post serve
+
+rsync -avrt lecture1-introduction slides.pdf hainguyen@photai.oden.utexas.edu:/workspace/HaiNguyen/Fa22---INTRO-TO-MACHINE-LEARNING/FA22_Lecture/
