@@ -12,7 +12,7 @@ pyvenv.cfg
 
 bin/
 etc/
-pyenf.cfg
+*.cfg
 share/
 
 # Distribution / packaging
