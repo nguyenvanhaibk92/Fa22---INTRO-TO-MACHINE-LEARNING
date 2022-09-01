@@ -1,6 +1,6 @@
 jupyter nbconvert name_of_file.ipynb --to slides --post serve
 jupyter nbconvert lecture2-supervised-learning.ipynb --to slides --post serve
-jupyter nbconvert lecture3-linear-regression.ipynb --to slides --post serve
+jupyter nbconvert lecture3-linear-regression_.ipynb --to slides --post serve
 jupyter nbconvert Assignment_1 --to slides --post serve
 
 
