@@ -8,8 +8,9 @@ width="240" height="180" border="10" /></a>
 
 These materials accompany a set of Youtube [lecture videos](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) from the Fall 2020 edition of the course. -->
 
-Dr. Tan teaches the course
+Instructor: Dr. Tan Bui-Thanh
 
+Teaching assistant: Mr. Hai Nguyen
 ## Contents
 
 The course focus on fundamental topics in machine learning,
